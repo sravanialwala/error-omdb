@@ -1,0 +1,19 @@
+.singleMovie {
+    /* position:relative;
+    top: 80%;
+    left: 38%;
+    width:45em;
+    height:fit-content;
+    margin-top: -9em;
+    margin-left: -15em; 
+    border: 1px solid #ccc; */
+    background-color: #272525;
+    /* border-radius: 40px; */
+    position: absolute;
+    top: 7%;
+    left: 30%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width:45em;
+    height: fit-content;
+}

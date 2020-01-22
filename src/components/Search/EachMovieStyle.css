@@ -1,0 +1,9 @@
+.EachMovie
+{
+    /* background-color: rgb(29, 28, 26); */
+    border-bottom: 1px solid rgb(232, 233, 230);
+    width:max-content;
+    text-align: left;
+    height: fit-content;
+
+}
